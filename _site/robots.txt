@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lanhbx.github.io/sitemap.xml
