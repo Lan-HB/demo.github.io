@@ -10,4 +10,12 @@ toc:
   sidebar: left
 ---
 
-test
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Lan Hongbo
+    - name: Date of Birth
+      value: 29.06.2000
+    - name: Languages
+      value: Chinese, English
