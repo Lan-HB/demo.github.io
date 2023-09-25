@@ -69,7 +69,7 @@
     }
   ],
   "interests": [
-    "photograph"
+    {"item_1":"photograph"}
   ],
   "references": [],
   "projects": []
